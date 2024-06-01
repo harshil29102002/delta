@@ -1,2 +1,2 @@
 # delta
-this file for git &amp; github use
+this file for git &amp; github use.
